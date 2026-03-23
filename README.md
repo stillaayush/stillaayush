@@ -1,52 +1,69 @@
-# Hi there 👋 I'm Aayush
+# 🚀 Hi, I'm Aayush | Full-Stack Developer & AI Specialist
 
-Welcome to my GitHub profile! I'm a passionate developer interested in building innovative solutions and learning new technologies.
+<p align="center">
+	<img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Aayush&fontSize=90&animation=fadeIn" alt="Aayush header" />
+</p>
 
-## 🚀 About Me
+## 🎓 Professional Summary
 
-- 🔭 I'm currently working on exciting projects and exploring new technologies
-- 🌱 I'm always learning and improving my skills
-- 💡 I like solving complex problems and writing clean, maintainable code
-- 🎯 Passionate about open-source contributions
-- 💬 Feel free to reach out for collaborations or just a friendly chat
+I am a B.Tech student specializing in Artificial Intelligence and Machine Learning at **SRM Institute of Science and Technology**.
+My work bridges robust full-stack architecture with intelligent AI-driven interfaces.
+I am especially passionate about using **computer vision** to improve **digital accessibility**.
 
-## 💻 Tech Stack
+- 🔭 **Currently Building:** **Kaarya** - a full-stack platform connecting daily-wage laborers with employers.
+- 🤖 **AI Research:** Hand gesture recognition systems for gaming and accessibility.
+- 🌱 **Learning:** Indian Sign Language (ISL) for gesture-to-speech AI agents.
+- 🎮 **Background:** Founder of **ODDSOCEAN** with experience in esports tournament management and content strategy.
 
-**Languages:** Python, Java, HTML, CSS
+## 💻 Technical Ecosystem
 
-**Frontend:** React, HTML5, Tailwind CSS
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | Python, Java, JavaScript, HTML, CSS |
+| **Frontend** | React, Tailwind CSS, HTML5 |
+| **Backend** | Node.js, Express.js, Django |
+| **Database** | MongoDB, MySQL |
+| **AI/ML** | Random Forest, Computer Vision, Gesture Recognition |
+| **DevOps & Tools** | Git, Docker, REST APIs, Firebase |
 
-**Backend:** Node.js, Django
+## 🏆 Featured Projects
 
-**Databases:** MySQL, MongoDB
+### 🛠 Kaarya
+A community-driven web application designed to empower daily-wage workers through a transparent platform for employment opportunities.
 
-**Tools & Technologies:** Git, Docker, REST APIs, Firebase
+**Tech Stack:** MERN
 
-## 📊 GitHub Stats
+### 📈 PREDICTATOR
+A dummy trading simulation app that uses a **Random Forest** machine learning model to predict market trends and help users practice strategies risk-free.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stillaayush&show_icons=true&theme=dark)
+## 📊 GitHub Insights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stillaayush&layout=compact&theme=dark)
+<p align="center">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stillaayush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stillaayush&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
-## 🔗 Connect With Me
+## 🤝 Connect With Me
 
-- **GitHub:** [@stillaayush](https://github.com/stillaayush)
-- **LinkedIn:** www.linkedin.com/in/visitmehere
+<p align="left">
+	<a href="https://linkedin.com/in/visitmehere">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://twitter.com/stillodd_in">
+		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+	</a>
+	<a href="https://instagram.com/stillodd.in">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+	</a>
+	<a href="https://github.com/stillaayush">
+		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+	</a>
+</p>
 
+## ⚡ Random Fact
 
-## 📈 Latest Activity
-
-- 🎓 Continuously learning and developing new skills
-- 🤝 Open to collaborations and team projects
-- 📝 Sharing knowledge through code and documentation
-
-## 🎯 Goals
-
-- Build impactful applications that solve real-world problems
-- Contribute meaningfully to open-source projects
-- Mentor and help other developers grow
-- Stay updated with emerging technologies and best practices
+When I'm not coding, I am likely managing esports tournaments or exploring the latest in Open Source Intelligence.
 
 ---
 
-⭐ If you find my projects interesting, feel free to star them and follow for more updates!
+⭐ If you find my work interesting, feel free to star my repositories and follow for updates.
