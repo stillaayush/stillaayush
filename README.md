@@ -6,19 +6,19 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 
 - 🔭 I'm currently working on exciting projects and exploring new technologies
 - 🌱 I'm always learning and improving my skills
-- 💡 I love solving complex problems and writing clean, maintainable code
+- 💡 I like solving complex problems and writing clean, maintainable code
 - 🎯 Passionate about open-source contributions
 - 💬 Feel free to reach out for collaborations or just a friendly chat
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript, Python, Java, HTML, CSS
+**Languages:** Python, Java, HTML, CSS
 
-**Frontend:** React, Vue.js, HTML5, CSS3, Tailwind CSS
+**Frontend:** React, HTML5, Tailwind CSS
 
-**Backend:** Node.js, Express, Django, Spring Boot
+**Backend:** Node.js, Django
 
-**Databases:** MySQL, MongoDB, PostgreSQL
+**Databases:** MySQL, MongoDB
 
 **Tools & Technologies:** Git, Docker, REST APIs, Firebase
 
@@ -31,9 +31,8 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 ## 🔗 Connect With Me
 
 - **GitHub:** [@stillaayush](https://github.com/stillaayush)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/stillaayush)
-- **Email:** your.email@example.com
-- **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+- **LinkedIn:** www.linkedin.com/in/visitmehere
+
 
 ## 📈 Latest Activity
 
@@ -51,5 +50,3 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 ---
 
 ⭐ If you find my projects interesting, feel free to star them and follow for more updates!
-
-**Made with ❤️ by Aayush**
