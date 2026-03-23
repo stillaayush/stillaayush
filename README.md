@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Aayush | Full-Stack Developer & AI Specialist
+# Hi, I'm Aayush | Learning Full-Stack & AI
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Aayush&fontSize=90&animation=fadeIn" alt="Aayush header" />
@@ -7,13 +7,12 @@
 ## 🎓 Professional Summary
 
 I am a B.Tech student specializing in Artificial Intelligence and Machine Learning at **SRM Institute of Science and Technology**.
-My work bridges robust full-stack architecture with intelligent AI-driven interfaces.
-I am especially passionate about using **computer vision** to improve **digital accessibility**.
+My work focuses on bridging the gap between robust full-stack architecture and intelligent AI-driven interfaces, with a specific interest in computer vision and digital accessibility.
 
-- 🔭 **Currently Building:** **Kaarya** - a full-stack platform connecting daily-wage laborers with employers.
+- 🔭 **Currently Building:** **Kaarya** - a platform connecting daily-wage laborers with employers.
 - 🤖 **AI Research:** Hand gesture recognition systems for gaming and accessibility.
 - 🌱 **Learning:** Indian Sign Language (ISL) for gesture-to-speech AI agents.
-- 🎮 **Background:** Founder of **ODDSOCEAN** with experience in esports tournament management and content strategy.
+- 🎮 **Background:** Founder of **ODDSOCEAN** with experience in esports tournament management and digital content strategy.
 
 ## 💻 Technical Ecosystem
 
@@ -34,7 +33,7 @@ A community-driven web application designed to empower daily-wage workers throug
 **Tech Stack:** MERN
 
 ### 📈 PREDICTATOR
-A dummy trading simulation app that uses a **Random Forest** machine learning model to predict market trends and help users practice strategies risk-free.
+A trading simulation app utilizing a **Random Forest** machine learning model to predict market trends and help users practice trading strategies risk-free.
 
 ## 📊 GitHub Insights
 
@@ -49,20 +48,14 @@ A dummy trading simulation app that uses a **Random Forest** machine learning mo
 	<a href="https://linkedin.com/in/visitmehere">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
-	<a href="https://twitter.com/stillodd_in">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-	</a>
-	<a href="https://instagram.com/stillodd.in">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-	</a>
-	<a href="https://github.com/stillaayush">
-		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+	<a href="mailto:your-email@example.com">
+		<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 	</a>
 </p>
 
 ## ⚡ Random Fact
 
-When I'm not coding, I am likely managing esports tournaments or exploring the latest in Open Source Intelligence.
+When I'm not coding, I'm likely managing esports tournaments or exploring the latest in Open Source Intelligence.
 
 ---
 
