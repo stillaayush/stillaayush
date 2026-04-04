@@ -1,8 +1,5 @@
 # Hi, I'm Aayush | Learning Full-Stack & AI
 
-<p align="center">
-	<img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Aayush&fontSize=90&animation=fadeIn" alt="Aayush header" />
-</p>
 
 ## 🎓 Professional Summary
 
